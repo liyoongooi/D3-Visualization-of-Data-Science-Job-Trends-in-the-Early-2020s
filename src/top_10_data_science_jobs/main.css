@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    user-select: none;
+}
+
+text {
+    font-family: sans-serif;
+}
